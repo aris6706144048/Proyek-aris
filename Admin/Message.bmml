@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="828" measuredH="640" mockupW="359" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="469" y="50" w="359" h="590" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="620" y="178" w="-1" h="-1" measuredW="69" measuredH="33" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Admin</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Webcam" x="550" y="251" w="39" h="38" measuredW="177" measuredH="146" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Webcam" x="550" y="317" w="39" h="38" measuredW="177" measuredH="146" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Webcam" x="550" y="389" w="39" h="38" measuredW="177" measuredH="146" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="628" y="260" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Keep%20Up%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="628" y="398" w="104" h="20" measuredW="103" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bagus%20aplikasinya</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="628" y="326" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Report</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="674" y="326" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comment%20%2321</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="531" y="508" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>Menu%20admin%26bm%3BMenu%20admin.bmml%26bm%3BMenu%20admin.bmml%26bm%3BMenu%20admin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C458%2C112%2C485%22%20href%3D%22Menu%2520admin.bmml%22%20alt%3D%22Menu%20admin%22%20id%3D%2213%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

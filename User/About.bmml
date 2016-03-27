@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="828" measuredH="640" mockupW="359" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="469" y="50" w="359" h="590" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="526" y="230" w="245" h="303" measuredW="246" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Main%20Menu%26bm%3BMain%20Menu.bmml%26bm%3BMain%20Menu.bmml%26bm%3BMain%20Menu.bmml%2CEat%20now%26bm%3BEat%20now.bmml%26bm%3BEat%20now.bmml%26bm%3BEat%20now.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2277%2C180%2C143%2C205%22%20href%3D%22Main%2520Menu.bmml%22%20alt%3D%22Main%20Menu%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22143%2C180%2C210%2C205%22%20href%3D%22Eat%2520now.bmml%22%20alt%3D%22Eat%20now%22%20id%3D%221_1%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <text>Trending%2C%20Eat%20Now%21%2C%20About</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="623" y="171" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="730" y="171" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22261%2C121%2C302%2C142%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%225%22/%3E</map>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
