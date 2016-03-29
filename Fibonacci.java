@@ -18,6 +18,7 @@ public class Fibonacci {
         num[0] = 1;
         num[1] = 1;
         int urut;
+        int sum = 0;
         
         Scanner input = new Scanner (System.in);
         System.out.print("Masukkan angka : ");
@@ -28,6 +29,7 @@ public class Fibonacci {
         for (int i=0; i<urut; i++){
             System.out.println(num[i]+" ");
             num[i+2] = num[i] + num[i+1];
+            sum += num[i];
         }
         
     }
