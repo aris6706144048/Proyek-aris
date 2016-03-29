@@ -27,10 +27,10 @@ public class Fibonacci {
         urut = Integer.parseInt(data);
         
         for (int i=0; i<urut; i++){
-            System.out.println(num[i]+" ");
+            
             num[i+2] = num[i] + num[i+1];
             sum += num[i];
         }
-        
+        System.out.println(sum+" ");
     }
 }
